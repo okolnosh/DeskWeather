@@ -10,8 +10,8 @@
 
 ## Скачать
 
-**[DeskWeather-Setup.exe](https://github.com/okolnosh/DeskWeather/releases/latest/download/DeskWeather-Setup.exe)** — последняя версия.
-Все версии и списки изменений — на странице [Releases](https://github.com/okolnosh/DeskWeather/releases).
+**[DeskWeather-Setup.exe](https://github.com/DeskWeather/DeskWeather/releases/latest/download/DeskWeather-Setup.exe)** — последняя версия.
+Все версии и списки изменений — на странице [Releases](https://github.com/DeskWeather/DeskWeather/releases).
 Полная версия — [ключ на Plati](https://plati.market/itm/deskweather-full-version-key-live-weather-on-your-windows-desktop/6399572).
 
 Установщик ставит программу только для текущего пользователя и не просит прав администратора.
